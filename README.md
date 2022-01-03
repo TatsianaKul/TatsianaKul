@@ -6,4 +6,6 @@ I'm Tatsiana Kulaha. Welcome to my GitHub!
 - 📫 How to reach me: [Telegram](https://t.me/tatsianakulaha) , [LinkedIn](https://www.linkedin.com/in/tatsina-kulaha/)
 - 😄 Pronouns: .
 - ⚡ Fun fact: ...
+-
+-
 -->
