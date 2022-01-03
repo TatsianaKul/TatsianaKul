@@ -6,12 +6,9 @@
 Latest DevTool video
 
 
-### Tools 
-![DBeaver](https://img.shields.io/badge/-DBeaver-#a0522d?style=for-the-badge&logo=dbeaver&logoColor=#4a413d)
 
-
-Follow me
-
+### Follow me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
 
 
 
