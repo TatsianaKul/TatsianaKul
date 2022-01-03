@@ -19,7 +19,7 @@ ___
 
 :computer: I’m currently working as a QA Engineer 
 
-:open_book: I'm intersred in developing my technical skills, learn new tools and tech
+:open_book: I'm interested in developing my technical skills, learn new tools and tech
 
 :uk: I learn English 
 
