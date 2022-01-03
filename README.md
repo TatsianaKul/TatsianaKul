@@ -1,7 +1,6 @@
 
-#
-:sunglasses: **I'm Tatsiana Kulaha. Welcome to my GitHub!**
-###
+## :sunglasses: I'm Tatsiana Kulaha. Welcome to my GitHub!
+
 
 ___
 
