@@ -23,7 +23,7 @@ ___
 
 :uk: I learn English 
 
-:earth_americas: Explore tools: DevTools, Dbeaver, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
+:earth_americas: Explore tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
 ### **Some of my works:**
 
