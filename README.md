@@ -1,8 +1,8 @@
 
 ## :sunglasses: I'm Tatsiana Kulaha. Welcome to my GitHub!
 
-___
 
+___
 
 
  ### **Follow me**:
@@ -16,13 +16,13 @@ ___
 
 
 ### :information_desk_person:**About me:**
-###
+
 :computer: I’m currently working as a QA Engineer 
-###
+
 :open_book: I'm intersred in developing my technical skills, learn new tools and tech
-###
+
 :uk: I learn English 
-###
+
 :earth_americas: Explore tools: DevTools, Dbeaver, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
 ### **Some of my works:**
