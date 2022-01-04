@@ -25,7 +25,7 @@ ___
 
 :earth_americas: Explore tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
-### **Some of my works:**
+### **Some of my work:**
 
  :pushpin: Linux terminal [My homework](https://github.com/TatsianaKul/Terminal/blob/main/TerminalHW.txt)
 
