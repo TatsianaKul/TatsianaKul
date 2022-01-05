@@ -21,7 +21,7 @@ ___
 
 :uk: We can discuss lots of interesting and exciting topics 
 
-:earth_americas: Tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
+:earth_americas: Tools: DevTools, Dbeaver, PostgreSQL, GitBash, Git, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
 ### **Some of my work:**
 
