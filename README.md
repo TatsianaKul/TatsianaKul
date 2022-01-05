@@ -17,13 +17,11 @@ ___
 
 ### :information_desk_person:**About me:**
 
-:computer: I’m currently working as a QA Engineer 
+:open_book: I'm continuing to make improvements to my technical skills based on the tools i know 
 
-:open_book: I'm interested in developing my technical skills, learn new tools and tech
+:uk: I'm continuing to make improvements to my English
 
-:uk: I learn English 
-
-:earth_americas: Explore tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
+:earth_americas: Tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
 ### **Some of my work:**
 
