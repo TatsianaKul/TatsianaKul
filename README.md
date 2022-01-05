@@ -19,7 +19,7 @@ ___
 
 :open_book: I'm continuing to make improvements to my technical skills based on the tools i know 
 
-:uk: I'm continuing to make improvements to my English
+:uk: I'm making improvements to my English
 
 :earth_americas: Tools: DevTools, Dbeaver, PostgreSQL, GitBash, Android Studio, Postman, Charles, Fiddler, VS Code.
 _____
