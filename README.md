@@ -17,7 +17,7 @@ ___
 
 ### :information_desk_person:**About me:**
 
-:open_book: I'm continuing to make improvements to my technical skills based on the tools i know. I'm always open to new ideas and opportunities.  
+:open_book: I'm continuing to make improvements to my technical skills based on the tools I know. I'm constantly open to new ideas and opportunities.  
 
 :uk: We can discuss lots of interesting and exciting topics 
 
